@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BeanUtils/BeanUtils.iml" filepath="$PROJECT_DIR$/BeanUtils/BeanUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metaInfoUtils/MetaInfoUtils.iml" filepath="$PROJECT_DIR$/metaInfoUtils/MetaInfoUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProxyUtils/ProxyUtils.iml" filepath="$PROJECT_DIR$/ProxyUtils/ProxyUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegisterBean/RegisterBean.iml" filepath="$PROJECT_DIR$/RegisterBean/RegisterBean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ResourceUtils/ResourceUtils.iml" filepath="$PROJECT_DIR$/ResourceUtils/ResourceUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortUtils/SortUtils.iml" filepath="$PROJECT_DIR$/SortUtils/SortUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TypeConvertor/TypeConvertor.iml" filepath="$PROJECT_DIR$/TypeConvertor/TypeConvertor.iml" />
+    </modules>
+  </component>
+</project>

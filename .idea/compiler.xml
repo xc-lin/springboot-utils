@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="BeanUtils" />
+        <module name="ResourceUtils" />
+        <module name="ProxyUtils" />
+        <module name="TypeConvertor" />
+        <module name="RegisterBean" />
+        <module name="SortUtils" />
+        <module name="MetaInfoUtils" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="BeanUtils" target="1.8" />
+      <module name="MetaInfoUtils" target="1.8" />
+      <module name="ProxyUtils" target="1.8" />
+      <module name="RegisterBean" target="1.8" />
+      <module name="ResourceUtils" target="1.8" />
+      <module name="SortUtils" target="1.8" />
+      <module name="TypeConvertor" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="BeanUtils" options="-parameters" />
+      <module name="MetaInfoUtils" options="-parameters" />
+      <module name="ProxyUtils" options="-parameters" />
+      <module name="RegisterBean" options="-parameters" />
+      <module name="ResourceUtils" options="-parameters" />
+      <module name="SortUtils" options="-parameters" />
+      <module name="TypeConvertor" options="-parameters" />
+    </option>
+  </component>
+</project>

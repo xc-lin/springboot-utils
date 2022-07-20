@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/BeanUtils/pom.xml" />
+        <option value="$PROJECT_DIR$/SortUtils/pom.xml" />
+        <option value="$PROJECT_DIR$/ResourceUtils/pom.xml" />
+        <option value="$PROJECT_DIR$/metaInfoUtils/pom.xml" />
+        <option value="$PROJECT_DIR$/ProxyUtils/pom.xml" />
+        <option value="$PROJECT_DIR$/TypeConvertor/pom.xml" />
+        <option value="$PROJECT_DIR$/RegisterBean/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
